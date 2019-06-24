@@ -29,6 +29,7 @@ img {
 .bg-transparent {
   background-color: transparent !important;
 }
+
 .classy-nav-container {
   position: relative;
   z-index: 100;
@@ -81,13 +82,14 @@ img {
   -ms-flex-pack: center;
   justify-content: center;
 }
+
 .classy-navbar {
   width: 100%;
   height: 70px;
   padding: 0.5em 2em;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
+  display: inline-flex;
   -webkit-box-align: center;
   -ms-flex-align: center;
   -ms-grid-row-align: center;
@@ -107,7 +109,7 @@ img {
 .classynav ul li {
   display: inline-block;
   clear: both;
-  position: inherit;
+  position: relative;
   z-index: 10;
 }
 .classynav ul li.cn-dropdown-item {
