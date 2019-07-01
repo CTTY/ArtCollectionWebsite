@@ -1,6 +1,6 @@
 @import url(./classy-nav.css);
 @import url(./animate.css);
-@import url(css/owl.carousel.min.css);
+@import url(./owl.carousel.min.css);
 
 .header-area {
     position: fixed;
