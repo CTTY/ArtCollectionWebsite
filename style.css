@@ -53,7 +53,10 @@ Last Update: Dec 21, 2018
 @import url(css/classy-nav.css);
 @import url(css/owl.carousel.min.css);
 @import url(css/font-awesome.min.css);
-@import url(css/style.css);
+/*@import url(css/style.css);*/
+@import url(css/animate.css);
+@import url(css/magnific-popup.css);
+/*@import url(css/slick.css);*/
 /* :: 1.0 Reboot CSS */
 * {
   margin: 0;
