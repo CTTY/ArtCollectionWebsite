@@ -54,6 +54,11 @@
       &.youtube {
         background-color: #e20000;
       }
+
+      &.github {
+        background-color: rgb(51, 49, 49);
+      }
+
       @media #{$breakpoint-lg} {
         width: 30px;
         height: 30px;
